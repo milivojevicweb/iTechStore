@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: assets/images/
+Sitemap: http://itechstore.epizy.com/sitemap.xml

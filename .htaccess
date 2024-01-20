@@ -1,0 +1,6 @@
+ErrorDocument 404 http://localhost/sajt_praktikum/index.php?page=404
+ErrorDocument 403 http://localhost/sajt_praktikum/index.php?page=403
+ErrorDocument 301 http://localhost/sajt_praktikum/index.php?page=301
+
+RewriteEngine On
+RewriteRule ^Core/([^/]*)$ /Core/?page=$1 [L]

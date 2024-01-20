@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>iPhone</title>
+			<description>Izašli su novi mobilni telefoni</description>
+			<link>http://itechstore.epizy.com/index.php?page=iphone</link>
+		</item>	
+		<item>
+			<title>O autoru</title>
+			<description>Možete pročitati stvari vezane za autora sajta</description>
+			<link>http://itechstore.epizy.com/index.php?page=author</link>
+		</item>
+		<item>
+			<title>MacBook</title>
+			<description>Izašli su novi MacBook model</description>
+			<link>http://itechstore.epizy.com/index.php?page=macbook</link>
+		</item>	
+		<item>
+			<title>iPad</title>
+			<description>Izašli su novi tableti</description>
+			<link>http://itechstore.epizy.com/index.php?page=ipad</link>
+		</item>
+		<item>
+			<title>iWatch</title>
+			<description>Izašli su novi pametni satovi</description>
+			<link>http://itechstore.epizy.com/index.php?page=iwatch</link>
+		</item>
+	</channel>
+</rss>
